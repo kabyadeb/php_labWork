@@ -1,0 +1,91 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "pages": 180,
+        "stock": 20,
+        "isbn": "9780743273565",
+        "published_year": 1925
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "pages": 281,
+        "stock": 21,
+        "isbn": "9780060935467",
+        "published_year": 1960
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "pages": 328,
+        "stock": 15,
+        "isbn": "9780451524935",
+        "published_year": 1949
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "pages": 279,
+        "stock": 50,
+        "isbn": "9781503290563",
+        "published_year": 1813
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "pages": 1225,
+        "stock": 17,
+        "isbn": "9780199232765"
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "pages": 277,
+        "stock": 20,
+        "isbn": "9780316769488"
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "pages": 310,
+        "isbn": "9780547928227",
+        "stock": 25
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "pages": 268,
+        "stock": 5,
+        "isbn": "9780060850524",
+        "published_year": 1932
+    },
+    {
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "pages": 1216,
+        "stock": 10,
+        "isbn": "9780544003415"
+    },
+    {
+        "title": "life of pie",
+        "author": "abdul mueed ",
+        "pages": "200",
+        "stock": "10",
+        "isbn": "1233244564"
+    },
+    {
+        "title": "how to win",
+        "author": "abdul mueed ",
+        "pages": null,
+        "stock": "10",
+        "isbn": "321873612"
+    },
+    {
+        "title": "how yo",
+        "author": "sakib",
+        "pages": null,
+        "stock": "10",
+        "isbn": "12321"
+    }
+]
